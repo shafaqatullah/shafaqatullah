@@ -200,5 +200,6 @@ Motivated, teamwork-oriented, and responsible **Data Analyst and Senior Develope
 **💡 "Technology is best when it brings people together."**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shafaqatullah-zaheer&color=blue&style=flat-square)
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shafaqatullah&theme=github" alt="Activity graph" /> </p>
 
 </div>
