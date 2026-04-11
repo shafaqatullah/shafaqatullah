@@ -137,7 +137,7 @@ Motivated, teamwork-oriented, and responsible **Data Analyst and Senior Develope
 | **Bachelor in Computer Science** | Kabul University | 2021-2025 | A+ (92%) |
 | **Leadership & Management** | Nangarhar University | 2019 | Course Completed |
 | **Journalism Course** | NAAWAR Consultancy Service | 2016 | A+ |
-| **High School** | Hamid Karzai (Afghan Turk) | 2016 | 98% (1st Position) |
+| **High School** | Hassan Basri High School | 2021 | 98% (1st Position) |
 
 > 🏆 **Dean of the Coding Team** at Kabul University
 
