@@ -20,7 +20,7 @@
 
 ### About
 
-Senior software engineer with **7+ years** delivering full-stack web and mobile systems, data analytics, and DevOps practices. Currently at **Smart City Solution ICT Company** (Kabul), focused on performance, security, and maintainable architecture.
+Senior software engineer with **7+ years** delivering full-stack web and mobile systems, data analytics, and DevOps practices.  focused on performance, security, and maintainable architecture.
 
 | | |
 |:---|:---|
@@ -30,19 +30,97 @@ Senior software engineer with **7+ years** delivering full-stack web and mobile 
 
 ---
 
-### Top languages
+### Top languages & frameworks
 
 <p align="center">
-  <sub>Languages most represented across your public GitHub repositories.</sub>
+  <sub>Languages reflected on your public GitHub activity — plus a <strong>click-to-expand</strong> tour of stacks you ship with.</sub>
 </p>
 
 <p align="center">
-  <img width="520" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafaqatullah&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10&card_width=520&cache_seconds=86400&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Top languages — donut chart"/>
+  <a href="https://github.com/shafaqatullah?tab=repositories" title="View repositories">
+    <img src="https://skillicons.dev/icons?i=react,flutter,laravel,nextjs,vue,nestjs,nodejs,express,dart,php,py,cs,js,mysql,postgres,mongodb,graphql,git,linux&perline=7&theme=dark" alt="Primary frameworks and languages"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafaqatullah&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Top languages — bar overview"/>
+  <a href="https://github.com/shafaqatullah?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafaqatullah&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&hide_title=false&cache_seconds=7200" height="180" alt="Most used languages on GitHub"/>
+  </a>
 </p>
+
+<details open>
+<summary><strong>Spotlight — </strong><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="22" height="22" alt="" valign="middle"/> <strong>React</strong> · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="22" height="22" alt="" valign="middle"/> <strong>Next.js</strong> · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="22" height="22" alt="" valign="middle"/> <strong>Vue</strong></summary>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+</p>
+
+Component-driven UIs, **hooks & modern patterns**, **Next.js** App Router / SSR when SEO and performance matter, and **Vue** for teams that prefer its progressive model. Styling with **CSS3**, component libraries, and API integration via **REST** and **GraphQL**.
+
+</details>
+
+<details>
+<summary><strong>Spotlight — </strong><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="22" height="22" alt="" valign="middle"/> <strong>Flutter</strong> · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="22" height="22" alt="" valign="middle"/> <strong>Dart</strong></summary>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="52" height="52" alt="Flutter"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="52" height="52" alt="Dart"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="48" height="48" alt="Android"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="48" height="48" alt="iOS"/>
+</p>
+
+**Cross-platform** mobile apps with Flutter: responsive layouts, state management, platform channels, and polished UX. **Dart** on the client and for tooling; integrates with **REST**, **GraphQL**, and backend services (e.g. **NestJS**, **Laravel**).
+
+</details>
+
+<details>
+<summary><strong>Spotlight — </strong><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="22" height="22" alt="" valign="middle"/> <strong>Laravel</strong> · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="22" height="22" alt="" valign="middle"/> <strong>PHP</strong> · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" width="22" height="22" alt="" valign="middle"/> <strong>NestJS</strong></summary>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="50" height="50" alt="Laravel"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" height="50" alt="PHP"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" width="50" height="50" alt="NestJS"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="88" height="50" alt="Express"/>
+</p>
+
+**Laravel** for elegant APIs, queues, auth, and admin tooling. **NestJS** / **Node** for typed, modular services and **Express** where a lightweight layer fits. All wired to **MySQL**, **PostgreSQL**, or **MongoDB** with clear boundaries and **CI/CD**-friendly deploys.
+
+</details>
+
+<details>
+<summary><strong>More — </strong><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="22" height="22" alt="" valign="middle"/> <strong>Python</strong> · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="22" height="22" alt="" valign="middle"/> <strong>C#</strong> · data &amp; .NET</summary>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>
+</p>
+
+**Python** for analytics, scripting, and data workflows; **C#** / **.NET** and **ASP.NET** where the stack calls for it. Comfortable across **SQL** engines and **document** stores for reporting and operational data.
+
+</details>
 
 ---
 
