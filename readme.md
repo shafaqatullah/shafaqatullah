@@ -17,6 +17,7 @@
 </p>
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=shafaqatullah)
 
 ### About
 
